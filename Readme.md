@@ -59,12 +59,12 @@ How to Run the Project
 
 Clone the repository
 
-git clone https://github.com/PAVANREDDYCEASE/GENAI-BOOTCAMP-CHATBOT/tree/main
+git clone https://github.com/PAVANREDDYCEASE/GENAI-BOOTCAMP-CHATBOT
 
 
-Open the project folder
 
-Open the Index file in your browser
+
+Open the Main file in your browser
 
 chatbot.html
 
